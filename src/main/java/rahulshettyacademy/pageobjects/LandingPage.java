@@ -16,7 +16,7 @@ import rahulshettyacademy.AbstractComponents.AbstractComponent;
 public class LandingPage extends AbstractComponent{
 
 	 WebDriver driver;
-	 WebDriverWait wait;
+	 WebDriverWait wait; //cicd demo
 	 
 	public LandingPage(WebDriver driver)
 	{
